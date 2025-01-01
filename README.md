@@ -17,7 +17,7 @@ The Calendar Application for Communication Tracking is a React-based tool design
 ### Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/ashuisashish/Calendar-Application-for-Communication-Tracking.git
 ```
 
 ### Install Dependencies
