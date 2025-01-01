@@ -26,12 +26,6 @@ git clone https://github.com/ashuisashish/Calendar-Application-for-Communication
 npm install
 ```
 
-### Run the Server
-
-```bash
-http://localhost:8080/reports
-```
-
 ### Start the Application
 
 ```bash
