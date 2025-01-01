@@ -34,7 +34,7 @@ npm run dev
 
 ### Live Deployment
 
-[Calendar Application on Github]( )
+[Calendar Application on Netlify] ( https://clever-entremet-81d0cf.netlify.app )
 
 ---
 
